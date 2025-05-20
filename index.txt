@@ -1,0 +1,5 @@
+JavaScript Medium to Advanced Fundamentals
+  
+This file contains various concepts and examples for JavaScript intermediate
+to advanced level programming concepts.
+
